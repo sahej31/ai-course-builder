@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+chromadb
+rank-bm25
+pydantic
+sentence-transformers
+requests
+python-multipart
+pdfminer.six
+beautifulsoup4
+readability-lxml
+pytest
+black
+ruff
